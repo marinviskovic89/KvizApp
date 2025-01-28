@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "12058126037",
+    "project_id": "kviz-ac83d",
+    "storage_bucket": "kviz-ac83d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:12058126037:android:12f565e9bb356da437245c",
+        "android_client_info": {
+          "package_name": "com.example.vjezba4"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzTaldjSpmzeAHodJVVr1ii2_jQodVgPQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

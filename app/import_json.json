@@ -1,0 +1,28 @@
+{  "predmeti": [
+  {
+    "godina": 1,
+    "ime": "Digitalna",
+    "predavac": "Ivan Kedzo"
+  },
+  {
+    "godina": 1,
+    "ime": "Analiza 1",
+    "predavac": "Ariana Burazin"
+  },
+  {
+    "godina": 3,
+    "ime": "Analiza 2",
+    "predavac": "Ivo Baras"
+  },
+  {
+    "godina": 2,
+    "ime": "Mrezne usluge i programiranje",
+    "predavac": "Haidi Bozikovic"
+  },
+  {
+    "godina": 5,
+    "ime": "Mobilne tehnologije",
+    "predavac": "Marina Rodic"
+  }
+]
+}
